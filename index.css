@@ -1,0 +1,16 @@
+.content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,2fr));
+    gap: 10px;
+    background-color: brown;
+}
+
+.book{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin:10px;
+}
+
+ul li{
+    list-style-type: none;
+}
